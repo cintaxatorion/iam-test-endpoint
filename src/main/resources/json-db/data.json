@@ -1,0 +1,16 @@
+{
+  "identities": {
+    "1f5d386": {
+      "id": "1f5d386",
+      "firstName": "UserAFN",
+      "lastName": "UserALN",
+      "roles": ["RoleA", "RoleB"]
+    },
+    "1f5d387": {
+      "id": "1f5d387",
+      "firstName": "UserBFN",
+      "lastName": "UserCLN",
+      "roles": ["RoleA"]
+    }
+  }
+}
